@@ -1,8 +1,6 @@
 Hi, I’m @DREWuhPicture, and my website is https://drewuhpicture.com/
 
-I made this profile just to upload code for the little projects I've made and documented on my site. 
-
-It will all just be thrown right here, unless I embark on something of enough substance to merit its own repository.
+I made this profile just to upload code for the little projects I've made and documented on my site. I'm just gonna throw it all into this repository, because I don't feel like figuring out how to do anything else. Unless I start a project with enough code to merit becoming its own thing.
 
 y33T
 
