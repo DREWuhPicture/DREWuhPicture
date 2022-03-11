@@ -1,8 +1,8 @@
-Hi, I’m @DREWuhPicture
+Hi, I’m @DREWuhPicture, and my website is https://drewuhpicture.com/
 
-My website is https://drewuhpicture.com/
+I made this profile just to upload code for the little projects I've made and documented on my site. 
 
-Probably not ever gonna do anything here except upload some very basic code.
+It will all just be thrown right here, unless I embark on something of enough substance to merit its own repository.
 
 y33T
 
